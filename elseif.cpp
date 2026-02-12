@@ -16,7 +16,7 @@ else
  {cout<<"KEEP IT UP";}
 return 0 ; } 
 
-
+ternary
 
 
 
